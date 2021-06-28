@@ -1,7 +1,7 @@
 {
-  "name": "unexbot",
+  "name": "unexbot_template",
   "version": "1.0.0",
-  "description": "Le bot discord officiel d'Unex Development",
+  "description": "Template version of Unex Bot by Nael880",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
