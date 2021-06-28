@@ -1,0 +1,26 @@
+{
+  "name": "unexbot",
+  "version": "1.0.0",
+  "description": "Le bot discord officiel d'Unex Development",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "enmap": "^5.8.4",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://github.com/IceroDev/Discord-Bot-Template"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "Template",
+    "javascript"
+  ]
+}
